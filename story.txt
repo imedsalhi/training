@@ -3,11 +3,11 @@ hello there
 
   public static void main(String[] args) {
     
-    System.out.println("Enter two numbers");
+    System.out.println("Enter two nnnumbers");
     int first = 10;
     int second = 20;
     
-    System.out.println(first + " " + second);
+    System.out.println(first + " " + secccond);
 
     // add two numbers
     int sum = first + second;
