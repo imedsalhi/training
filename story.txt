@@ -6,11 +6,10 @@ hello there
     System.out.println("Enter two nnnumbers");
     int first = 10;
     int second = 20;
-    
-    System.out.println(first + " " + secccond);
-
+    System.out.println(first + " " + seconddd);
     // add two numbers
     int sum = first + second;
-    System.out.println("The sum is: " + sum);
+    System.out.println("The sum is: " + summm);
   }
+why oh why
 }
